@@ -1,0 +1,6 @@
+
+train: Dataset/Train/images
+val: Dataset/val/images
+
+nc: 10  # totaal aantal klassen
+names: [ 'sunglass', 'hat', 'jacket', 'shirt', 'pants', 'shorts', 'skirt', 'dress', 'bag', 'shoe' ]

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/karol/OneDrive/Bureaublad/HHS/Jaar 2 Semester 4/Deep
+  Learning/Deep-Learning-Portfolio-3/runs/mlflow/564632388259091235/2dbf7045e56e41a8ab82e35f23c94ccf/artifacts
+end_time: 1751641558354
+entry_point_name: ''
+experiment_id: '564632388259091235'
+lifecycle_stage: active
+run_id: 2dbf7045e56e41a8ab82e35f23c94ccf
+run_name: train4
+run_uuid: 2dbf7045e56e41a8ab82e35f23c94ccf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751640863765
+status: 3
+tags: []
+user_id: karol
